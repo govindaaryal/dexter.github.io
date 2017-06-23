@@ -1,0 +1,223 @@
+/* Large desktops and laptops */
+@media (min-width: 1200px) {
+	.small-service-box{
+		height: 360px;
+	}
+	.service-image{
+		height: 250px;
+	}
+}
+
+/* Landscape tablets and medium desktops */
+@media (min-width: 992px) and (max-width: 1199px) {
+
+}
+
+/* Portrait tablets and small desktops */
+@media (min-width: 768px) and (max-width: 991px) {
+
+}
+
+/* Landscape phones and portrait tablets */
+@media (max-width: 767px) {
+
+}
+
+/* Portrait phones and smaller */
+@media (max-width: 480px) {
+	.company-info a{
+		font-size: 13px;
+	}
+	.info-bar-container{
+		padding-left: 0px;
+		padding-right: 0px;
+	}
+	.container-fluid{
+		padding: 0px !important;
+	}
+	#navigation{
+		height: 60px;
+	}
+	.navbar  .container-fluid{
+		padding: 0px 30px !important;
+	}
+	.navbar-brand img{
+		height: 30px;
+	}
+	.navbar-brand{
+		padding-top: 5%;
+	}
+	.navbar-toggle{
+		float: right !important;
+	}
+	.navbar .navbar-collapse{
+		border-bottom: 1px solid #000;
+	}
+	.box-foot-title span{
+		font-size: 13px;
+	}
+	.box-head-title span{
+		font-size: 20px;
+	}
+	.center-text span{
+		font-size: 24px;
+	}
+	.banner-container{
+		height: 510px;
+	}
+	.carousel-inner .item{
+		margin-top: 40%;
+	}
+	.nav-pills a{
+		font-size: 12px;
+	}
+	.small-booking{
+		width: 100%;
+	}
+	.tab-content .form-group div{
+	  width: 100%;
+	  padding-left: 0px;
+	  margin-top: 5px;
+	  padding-right: 0px;
+	}
+	.main-sub-desc p {
+	    text-align: center;
+	    padding: 0px 3%;
+	    font-size: 15px;
+	}
+	#small-about{
+	  position: relative;
+	    margin-top: 80%;
+	}
+	.small-service-box{
+		padding-right: 0px;
+	}
+	.small-service-contain{
+		padding: 0px;
+	}
+	.small-service-contain .about-content,.small-service-contain a{
+		padding-right: 15px;
+		padding-left: 15px;
+	}
+	.small-about-box{
+		padding-right: 0px;
+		margin-bottom: 20px;
+	}
+	.navbar-default{
+		z-index: 999999;
+	}
+	.notify h1{
+		font-size: 27px;
+	}
+	.notify h3{
+		font-size: 20px;
+	}
+	label.price{
+		right: 0px;
+	}
+	.testi-slider .carousel-inner .item{
+		margin-top: 0px !important;
+	}
+	.associate-ul li img{
+		height: 50px;
+	}
+	.footer-ul, .associate-ul{
+		padding-left: 0px;
+	}
+	.small-best-tour{
+  		padding-bottom: 20px;
+	}
+	#theCarousel .item{
+		margin-top: 5% !important;
+	}
+	.testi-contain{
+		padding: 0px;
+	}
+	.testi-slider{
+		padding: 0px;
+	}
+	.testi-slider .carousel-inner .item{
+		margin-top: 0px !important;
+	}
+	.testi-contain{
+		padding: 0px;
+	}
+	.cus-image{
+		height: 80px;
+		text-align: center;
+		width: 100%;
+	}
+	.cus-image img{
+		height: 100%;
+		margin:0px auto;
+	}
+	.white-sub-desc{
+		display: none;
+	}
+	.cus-detail{
+		border-left: 0px;
+	}
+	.cus-name{
+		font-size: 20px;
+	}
+	.cus-work{
+		font-size: 14px;
+	}
+	.cus-social li a{
+		font-size: 17px;
+	}
+	.cus-content p{
+		font-size: 15px;
+	}
+	#testimonial{
+		height: 95vh;
+	}
+	#testimonial .container-fluid{
+		height: 95vh;
+	}
+	.slideshow{
+		height: 95vh !important;
+	}
+	.testi-slider .carousel-indicators{
+		margin-bottom: -20px;
+	}
+	.associate-ul li img{
+		height: 60px;
+	}
+	#main-about{
+		display: block;
+		margin-top: 80%;
+	}
+	.main-about-content{
+		margin-top: 25%;
+	}
+	.main-about-best{
+		margin-top: 10% !important;
+	}
+	.main-about-intro h1{
+		font-size: 29px;
+	}
+}
+@media (max-width: 320px) {
+	.banner-container{
+		height: 412px;
+	}
+	.carousel-inner .item{
+		margin-top: 30%;
+	}
+	.small-service-contain{
+		padding: 0px;
+	}
+	.small-service-contain .about-content,.small-service-contain a{
+		padding-right: 15px;
+		padding-left: 15px;
+	}
+	.small-about-box{
+		padding-right: 0px;
+		margin-bottom: 20px;
+	}
+	.associate-ul li img{
+		height: 50px;
+	}
+	
+	}

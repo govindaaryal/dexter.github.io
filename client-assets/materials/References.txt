@@ -1,0 +1,23 @@
+background		http://codepen.io/kootoopas/pen/reyqg?editors=1100
+			http://codepen.io/vubon/pen/bdmvbY?editors=1100
+
+contact btn 		https://codepen.io/ajerez/pen/XmbQXQ
+
+theam divider		https://codepen.io/soulchainer/full/bVKvde/
+
+corporate theme		http://www.themesindustry.com/html/xwin/index.html
+
+divisions		http://www.dynamicpress.eu/envato/striped6/
+
+inner pages		http://demo.flytemplates.com/vispa/about-us/
+
+
+cv			https://codepen.io/Dammic/pen/dvbXLP	https://codepen.io/ArnaudBalland/pen/LRYxYO
+modal			https://codepen.io/madcat/pen/rLejEK
+dell5520
+
+<><><><><><><><><?><<><><><><><><?><><><><><><><><><><<><><><><<><><><<><><><><>>
+footer, unique theme	http://unitravel.ancorathemes.com/
+			    font-family: Yanone Kaffeesatz,sans-serif;
+travel			http://www.template-preview.com/bootstrap-templates/Travel-agency/#
+			https://devitems.com/preview/ramble/index.html
