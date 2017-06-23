@@ -24,7 +24,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |
 */
 //$config['base_url'] = 'http://localhost/ktmvalley/websites/dexter-old/';
-$config['base_url'] = 'http://192.168.0.102/ktmvalley/websites/dexter-old/';
+//$config['base_url'] = 'http://192.168.0.102/ktmvalley/websites/dexter-old/';
+$config['base_url'] = 'http://dexter.github.io/';
 
 /*
 |--------------------------------------------------------------------------
